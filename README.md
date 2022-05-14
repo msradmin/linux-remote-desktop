@@ -41,3 +41,4 @@ Example of a user’s remote desktop (available in a Chrome browser)
 ![Desktop](https://github.com/nubosoftware/linux-remote-desktop/releases/download/0.8.2/desktop-screenshot.png)
 Admin control panel – App management
 ![Admin control panel](https://github.com/nubosoftware/linux-remote-desktop/releases/download/0.8.2/user-applist-screenshot.png)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
